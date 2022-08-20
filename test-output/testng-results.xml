@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SampleAutomationFrameWork" duration-ms="67890" started-at="2022-08-18T08:54:14 IST" finished-at="2022-08-18T08:55:22 IST">
+    <groups>
+    </groups>
+    <test name="Test Basics 1" duration-ms="67890" started-at="2022-08-18T08:54:14 IST" finished-at="2022-08-18T08:55:22 IST">
+      <class name="MavenProject.TestCaseExecution.TestNgUI">
+        <test-method status="PASS" signature="beforeTestCasesSetup()[pri:0, instance:MavenProject.TestCaseExecution.TestNgUI@1c072cb]" name="beforeTestCasesSetup" is-config="true" duration-ms="189" started-at="2022-08-18T08:54:14 IST" finished-at="2022-08-18T08:54:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCasesSetup -->
+        <test-method status="PASS" signature="beforeTestCaseSetup()[pri:0, instance:MavenProject.TestCaseExecution.TestNgUI@1c072cb]" name="beforeTestCaseSetup" is-config="true" duration-ms="2446" started-at="2022-08-18T08:54:14 IST" finished-at="2022-08-18T08:54:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCaseSetup -->
+        <test-method status="PASS" signature="testCaseName()[pri:0, instance:MavenProject.TestCaseExecution.TestNgUI@1c072cb]" name="testCaseName" duration-ms="64232" started-at="2022-08-18T08:54:17 IST" finished-at="2022-08-18T08:55:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseName -->
+        <test-method status="PASS" signature="AfterTestCaseWrapup()[pri:0, instance:MavenProject.TestCaseExecution.TestNgUI@1c072cb]" name="AfterTestCaseWrapup" is-config="true" duration-ms="714" started-at="2022-08-18T08:55:21 IST" finished-at="2022-08-18T08:55:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestCaseWrapup -->
+        <test-method status="PASS" signature="AfterTestCasesWrapup()[pri:0, instance:MavenProject.TestCaseExecution.TestNgUI@1c072cb]" name="AfterTestCasesWrapup" is-config="true" duration-ms="265" started-at="2022-08-18T08:55:22 IST" finished-at="2022-08-18T08:55:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestCasesWrapup -->
+      </class> <!-- MavenProject.TestCaseExecution.TestNgUI -->
+    </test> <!-- Test Basics 1 -->
+  </suite> <!-- SampleAutomationFrameWork -->
+</testng-results>
